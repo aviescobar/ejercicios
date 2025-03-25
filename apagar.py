@@ -76,3 +76,4 @@ btn_apagar.pack(pady=20)
 root.mainloop()
 # Commit automático del día 4
 # Commit automático del día 4
+# Commit automático del día 4
