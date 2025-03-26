@@ -42,3 +42,4 @@ class AssistantFnc(llm.FunctionContext):
         self._temperature[Zone(zone)] = temp
         return f"The temperature in the {zone} is now {temp}C"
 # Commit automático del día 5
+# Commit automático del día 5
