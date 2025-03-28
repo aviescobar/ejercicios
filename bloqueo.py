@@ -84,3 +84,4 @@ btn_bloquear.pack(pady=20)
 root.mainloop()
 # Commit automático del día 7
 # Commit automático del día 7
+# Commit automático del día 7
