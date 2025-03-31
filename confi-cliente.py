@@ -19,3 +19,4 @@ print("Señal de apagado enviada al cliente.")
 
 cliente_socket.close()
 servidor.close()# Commit automático del día 10
+# Commit automático del día 10
