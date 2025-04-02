@@ -39,3 +39,4 @@ def cliente():
             enviar_texto(cliente_socket)
 
 cliente()# Commit automático del día 12
+# Commit automático del día 12
