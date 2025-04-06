@@ -50,3 +50,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\nServidor detenido.")
 # Commit automático del día 16
+# Commit automático del día 16
