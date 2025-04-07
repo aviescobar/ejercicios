@@ -33,3 +33,4 @@ while True:
 
         # Cerrar la conexión después de completar la comunicación
         client_socket.close()# Commit automático del día 17
+# Commit automático del día 17
