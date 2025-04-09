@@ -88,3 +88,4 @@ if ruta is not None and distancia is not None:
     dibujar_ruta_en_mapa(ruta, coordenadas)
 else:
     print("No se encontró una ruta válida para los destinos seleccionados.")# Commit automático del día 19
+# Commit automático del día 19
