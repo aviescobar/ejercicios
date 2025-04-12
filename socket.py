@@ -34,3 +34,4 @@ while True:
 
 # No olvides cerrar el socket del servidor (este código no se alcanzará en este ejemplo)
 servidor_socket.close()# Commit automático del día 22
+# Commit automático del día 22
