@@ -19,3 +19,4 @@ def adivina_el_numero():
             break
 
 adivina_el_numero()
+# Commit automático del día 3
