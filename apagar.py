@@ -74,3 +74,4 @@ btn_apagar = tk.Button(root, text="Apagar", command=ejecutar_apagado, state=tk.D
 btn_apagar.pack(pady=20)
 
 root.mainloop()
+# Commit automático del día 4
