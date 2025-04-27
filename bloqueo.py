@@ -82,3 +82,4 @@ btn_bloquear = tk.Button(root, text="Bloquear", command=bloquear_entrada, state=
 btn_bloquear.pack(pady=20)
 
 root.mainloop()
+# Commit automático del día 7
