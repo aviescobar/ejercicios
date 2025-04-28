@@ -35,3 +35,4 @@ except Exception as e:
 finally:
     client_socket.close()
     print("Conexión cerrada.")
+# Commit automático del día 8
